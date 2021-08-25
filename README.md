@@ -1,8 +1,9 @@
 # Holly Shinkle
 ### I am currently working on:
 - testmongo
+[testmongo]: https://github.com/Hshinkle/testmongo
 - testmongoreact  
-## I know how to work:
+## Softwear Devloment:
 - python
 - Java
 - JavaScript
