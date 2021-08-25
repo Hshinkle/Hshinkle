@@ -1,17 +1,26 @@
-### Hi there 👋
-
-<!--
-**Hshinkle/Hshinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-hi 
+# Holly Shinkle
+### I am currently working on:
+- testmongo
+- testmongoreact  
+## I know how to work:
+- python
+- Java
+- JavaScript
+- HTML
+- CSS
+- Mongo
+- React
+### I an currently learning:
+- GIT
+- Everything I can
+# skills I have:
+- Ability to work independently
+- Ability to lead teams
+- Multi-tasking
+- Organizational skills
+- Ability to work under pressure
+## How to reach me
+# [Indeed profile] 
+[Indeed profile]:https://my.indeed.com/p/hollys-jyicg0o
+# Email: hzshinkle@gmail.com
+# Secret Security Clearance
