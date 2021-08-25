@@ -2,7 +2,7 @@
 ### I am currently working on:
 - testmongo: https://github.com/Hshinkle/testmongo.git
 - testmongoreact: https://github.com/Hshinkle/testmongoreact.git
-## Softwear Devloment:
+## Languages:
 - python
 - Java
 - JavaScript
@@ -10,7 +10,7 @@
 - CSS
 - Mongo
 - React
-### I an currently learning:
+### I am currently learning:
 - GIT
 - Everything I can
 ### skills I have:
