@@ -1,8 +1,7 @@
 # Holly Shinkle
 ### I am currently working on:
-- testmongo
-[testmongo]: https://github.com/Hshinkle/testmongo
-- testmongoreact  
+- testmongo: https://github.com/Hshinkle/testmongo.git
+- testmongoreact: https://github.com/Hshinkle/testmongoreact.git
 ## Softwear Devloment:
 - python
 - Java
@@ -14,14 +13,19 @@
 ### I an currently learning:
 - GIT
 - Everything I can
-# skills I have:
+### skills I have:
 - Ability to work independently
 - Ability to lead teams
 - Multi-tasking
 - Organizational skills
 - Ability to work under pressure
+- Great Communication
+- problem solving
+- Time management 
+- Good at planning 
+- Adept at instilling discipline
 ## How to reach me
 # [Indeed profile] 
 [Indeed profile]:https://my.indeed.com/p/hollys-jyicg0o
 # Email: hzshinkle@gmail.com
-# Secret Security Clearance
+Secret Security Clearance
