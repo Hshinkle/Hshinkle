@@ -13,6 +13,7 @@ U.S. Army Veteran
 - React
 ### I am currently learning:
 - GIT
+- MYSQL
 - Everything I can
 ### skills I have:
 - Ability to work independently
