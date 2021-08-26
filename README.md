@@ -1,4 +1,5 @@
 # Holly Shinkle
+U.S. Army Veteran
 ### I am currently working on:
 - testmongo: https://github.com/Hshinkle/testmongo.git
 - testmongoreact: https://github.com/Hshinkle/testmongoreact.git
@@ -24,6 +25,7 @@
 - Time management 
 - Good at planning 
 - Adept at instilling discipline
+- crisis management
 ## How to reach me
 # [Indeed profile] 
 [Indeed profile]:https://my.indeed.com/p/hollys-jyicg0o
