@@ -23,7 +23,7 @@ U.S. Army Veteran
 - Ability to work under pressure
 - Great Communication
 - problem solving
-- Time management 
+- Time management  
 - Good at planning 
 - Adept at instilling discipline
 - crisis management
